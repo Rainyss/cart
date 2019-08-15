@@ -1,0 +1,31 @@
+{
+    "goods": [{
+            "title": "棉衣 双十一狂欢节 全面四件套",
+            "image": "../images/timg1 (2).jpg",
+            "price": "¥ 229",
+            "da": 5344,
+            "quantity": 1
+        },
+        {
+            "title": "棉衣 双十一狂欢节 粉红少女系",
+            "image": "../images/timg1 (3).jpg",
+            "price": "¥ 249",
+            "da": 4294,
+            "quantity": 1
+        },
+        {
+            "title": "棉衣 双十一狂欢节 都市女青年",
+            "image": "../images/timg1 (4).jpg",
+            "price": "¥ 199",
+            "da": 6719,
+            "quantity": 1
+        },
+        {
+            "title": "棉衣 双十一狂欢节 成熟女性",
+            "image": "../images/timg1 (5).jpg",
+            "price": "¥ 299",
+            "da": 4708,
+            "quantity": 1
+        }
+    ]
+}
